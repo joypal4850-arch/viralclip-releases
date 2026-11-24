@@ -1,8 +1,8 @@
 {
-  "version": "1.9.4",
-  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/download/v1.9.4/APK-Viral-Video-Clip-Setup.exe",
-  "sha256": "ff1c30a0b279deacffd575a924414dffce29e489c83bf771b3c82ac984af7c45",
-  "notes": "Lower CPU use (max 50 percent), faster on 8 GB PCs, new start-up notice about PC requirements",
-  "size": 231540206,
-  "sig": "VdO2_0q7MBgVBz_xNN7SFEygguNrkUhEwis13UA79ePoJlhYzN07E720kWUHpVjXwzSP9tK1VDM3wC1eyNaqAw"
+  "version": "2.8",
+  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/download/v2.8/APK-Viral-Video-Clip-Setup.exe",
+  "sha256": "399371abd9a1000a979cffe8de3a462dab9f663bbbb111bf86b49326db02bd95",
+  "notes": "Premium license and Auto-Post update",
+  "size": 231875255,
+  "sig": "idyRStWDlwYoya43yXDUdqPGXoyaeghLOWykUOHftui8uC_PM6T3u8_hEeQdz95hRwCr8zytddIay_20O1o1BA"
 }
