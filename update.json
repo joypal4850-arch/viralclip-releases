@@ -1,8 +1,8 @@
 {
-  "version": "2.8",
-  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/download/v2.8/APK-Viral-Video-Clip-Setup.exe",
-  "sha256": "399371abd9a1000a979cffe8de3a462dab9f663bbbb111bf86b49326db02bd95",
-  "notes": "Premium license and Auto-Post update",
-  "size": 231875255,
-  "sig": "idyRStWDlwYoya43yXDUdqPGXoyaeghLOWykUOHftui8uC_PM6T3u8_hEeQdz95hRwCr8zytddIay_20O1o1BA"
+  "version": "3.3",
+  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/tag/v3.3",
+  "sha256": "eec495a9d0eb8cd0c99c79f2f3b08a5c6a3d82928d112331f2f1aa0b3487dc2e",
+  "notes": "1) An ad is counted only when the video is watched to the end and Click Now is pressed. 2) Without the click, no free video or trial Duet video is unlocked. 3) The Click Now button stays greyed out until the video ends. 4) Click Now opens the Facebook link directly. 5) Facebook videos play inside the app, with no Facebook login needed. 6) View and click counters work exactly as before.",
+  "size": 263522592,
+  "sig": "vlYqKLuXr3T2ADa5qDi0KTZOy6izc8xHgN_bK7lp6CVzPmc78qqcnD2BkK9Ns-ze1cRmUErU3pBwEZ97-NcMAw"
 }
