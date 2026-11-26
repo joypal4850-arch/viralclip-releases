@@ -1,8 +1,10 @@
 {
-  "version": "3.3",
-  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/download/v3.3/APK-Viral-Video-Clip-Setup.exe",
-  "sha256": "eec495a9d0eb8cd0c99c79f2f3b08a5c6a3d82928d112331f2f1aa0b3487dc2e",
-  "notes": "What's new in v3.3",
-  "size": 263522592,
-  "sig": "Gt5gF2397ZQZYwpqPyh3zWi8Idbk0PAEmBq9V9RscMw_n1tUtJkomGH9sd319NR-EEqkWX9YgXV3rniDYa7uCw"
+  "version": "3.4",
+  "url": "https://github.com/joypal4850-arch/viralclip-releases/releases/download/v3.4/APK-Viral-Video-Clip-Setup.exe",
+  "sha256": "8261b4c6799d4568d25cab066ebca474b8214999eda0e9165734579e2c312cf8",
+  "notes": "নতুন আপডেট এসেছে! (ভার্সন 3.5)",
+  "size": 263603275,
+  "sig": "c0oc3UjRGcxWWQEaZrv5J2LXjjLDo0V8vjVNF8yVPXRCYl_Rb80kIMfNGrDShkLIZ6bU1B7GIFFmhYsv4iXcBw",
+  "min_version": "3.4",
+  "min_sig": "TOGFlm7rQEESfiUSSMqcIdDPwxCSMWoRou_tpTUNJ1pLf5KVom9c0sAChmvb8vPzVbkpH0wO22vgk8DX1nE3DA"
 }
