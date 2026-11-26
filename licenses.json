@@ -1,18 +1,12 @@
 {
-  "seq": 1795703824,
+  "seq": 1795703834,
   "entries": {
     "AC7F-FDF3-0C72-4DFD": {
       "t": "p",
       "iss": 1795700295,
       "days": 1,
       "ban": false
-    },
-    "1D79-E181-5C5C-FC24": {
-      "t": "p",
-      "iss": 1795703824,
-      "days": 0,
-      "ban": false
     }
   },
-  "sig": "-OlcOI3Xfd3JNA5-M6RYv-DKGOKTrTPB5r1TrGUPzn61ip-Bm0xkjatHggnbdyaGAp7mzs4vl4EUfNuj_f8HCw"
+  "sig": "3BYnrih20ritSHNITEZa1ZREgL4M5MFTVQ-Amiv30lsIAOFfZW7KdsP2PMP6kUvEi6fes9FvjU4wgx0PwyYdBw"
 }
