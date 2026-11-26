@@ -1,5 +1,5 @@
 {
-  "seq": 1795708959,
+  "seq": 1795709097,
   "entries": {
     "AC7F-FDF3-0C72-4DFD": {
       "t": "p",
@@ -12,13 +12,7 @@
       "iss": 1795707379,
       "days": 1,
       "ban": false
-    },
-    "4CE0-5CB9-92E0-15E5": {
-      "t": "p",
-      "iss": 1795708959,
-      "days": 0,
-      "ban": false
     }
   },
-  "sig": "zsDXGK5bWx_SwnB7eDEbhpwEyZC5WEavLo0kP0Q8xfSE38PlLbe7UYasBASGArIbwRUedNMu5RvKerxm1Wv9Dw"
+  "sig": "Ze388el2gi9amj4J_3vYBXZ_TiHNYULYB0aHzaTZ5jHGNhdJNzRsiscoByGssA3C8fk26TolA1PESt1b9tdsBw"
 }
